@@ -14,6 +14,7 @@
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-.third {
+/* since both No.3 and No.4 wants font-size 24, group them together into a class */
+.adjust-font-size {
     font-size: 24px;
 }
