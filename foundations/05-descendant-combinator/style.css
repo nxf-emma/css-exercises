@@ -1,0 +1,29 @@
+/* Four possible solutions */
+/* No.1 */
+.container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* No.2 */
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* No.3 */
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* No.4 */
+div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
