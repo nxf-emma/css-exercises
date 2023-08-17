@@ -24,6 +24,6 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
-  /* 600-200-32*2-3*2 */
-  margin-left: 330px;
+  /* if not given, left & right are default 0. Set margin-left to true is adapting left to right being 0 */
+  margin-left: auto;
 }
